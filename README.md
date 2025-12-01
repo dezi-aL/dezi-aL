@@ -1,10 +1,10 @@
-# 👋 Hi there, I'm dezi510015 (dezi five-hundred-fifteen)!
+# 👋 Hi there, I'm __aL!
 
 **Aspiring SOC Analyst | CTF Player | Penetration Tester | Fullstack Symfony/PHP Web Developer**
 
 ---
 
-## 🚀 About Me
+## 🚀 About me
 
 - 💻 Passionate about cybersecurity, web development, and digital problem-solving.
 - 🛡️ Actively sharpening my skills as a SOC Analyst and penetration tester.
@@ -26,7 +26,7 @@
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## 🌱 Currently learning & exploring
 
 - Security Operations Center (SOC) analysis
 - Advanced penetration testing
@@ -35,14 +35,14 @@
 
 ---
 
-## 📫 Where to Find Me
+## 📫 Where to find me
 
-- 🌐 [hegrada.me](https://hegrada.me)
+- 🌐 [hegrada.me](https://dezi-aL.github.io)
 - 📧 nullbytepro@proton.me
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Fun facts
 
 - 🏀 I love playing basketball—on the court or watching on the screen!
 - 💬 Foreign languages fascinate me—let’s connect in any tongue.
