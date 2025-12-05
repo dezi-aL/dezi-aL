@@ -37,7 +37,7 @@
 
 ## 📫 Where to find me
 
-- 🌐 [hegrada.me](https://dezi-aL.github.io)
+- 🌐 [dezi510015.me](https://dezi510015.github.io)
 - 📧 nullbytepro@proton.me
 
 ---
