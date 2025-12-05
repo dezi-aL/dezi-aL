@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm __aL!
+# 👋 Hi there, I'm dezi or dezi510015 (read: dezi five hundred fifteen)!
 
 **Aspiring SOC Analyst | CTF Player | Penetration Tester | Fullstack Symfony/PHP Web Developer**
 
